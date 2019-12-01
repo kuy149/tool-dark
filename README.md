@@ -10,5 +10,5 @@ git clone https://github.com/kuy149/tool-dark
 cd tool-dark
 ls
 sh dark.sh
-Password******KUYA
-#############PINTAR
+Password ...lumpat ka blog
+Kuyapintar.blogspot.com
