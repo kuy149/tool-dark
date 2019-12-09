@@ -39,7 +39,7 @@ echo $cyan "
 ┃
 ┠──[0] untuk instal bahan agar work ✔
 ┃
-┠──[1] Dark 1.6 ✔
+┠──[1] Dark 1.8 ✔
 ┃
 ┠──[2] Dark 1.7 [-FREE-] ✔
 ┃
@@ -87,9 +87,9 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 pkg install git
-git clone  https://github.com/pashayogi/SETAN
-cd SETAN
-python2 SETAN.py
+git clone  https://github.com/kuy149/dark
+cd dark
+python2 hencet.py
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
